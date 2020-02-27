@@ -223,7 +223,6 @@ void writeToFile(struct books* p)
 	fclose(write);
 }
 
-
 int main()
 {
 
