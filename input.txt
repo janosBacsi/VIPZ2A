@@ -1,0 +1,13 @@
+ John Doe 	"The story of unknown person"             2012 242 4.89
+Bob Wazowski 	"Corporate is not evil"                   1745 841 87.12
+Arge King 	"Song of Ice and fire"                    1998 125 4.99
+Cloe Clinton    "Always retreat"                         2015 999 98.99
+Michael Jackson "Another love story from  another writer" 1598 60 52.89
+Marge Simpson 	"How not to loose control"           	  2002 159 2.70
+Zepheniah Zorg 	"You've picked the wrong house fool"      2004 1313 45.99
+Ernest Hemingwey "Old man and the sea"                    1998 220 3.50
+Bob Marley       "Don't worry be happy"                   1984 345 215.14
+Peter Frank      "The story"                              1616 1600 40.0
+Zoe Zorb 	 "The book" 				  87   156  44.3
+Mike Armstrong   "Memory of a grail" 			  2006 874  26.99
+Jeff Broads      "Hello from the other side"              1999 156  45.88
