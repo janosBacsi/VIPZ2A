@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="books.cpp" />
     <ClCompile Include="laba10.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="books.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

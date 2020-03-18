@@ -1,6 +1,22 @@
-       Jeff     Broads "               Hello from the other side" 1999  156  45.88
-      Cloe    Clinton "                          Always retreat" 2015  999  98.99
-     Adolf     Hitler "                              Mein Kampf" 1933  320  98.99
-   Michael    Jackson " Another love story from  another writer" 1598   60  52.89
-       Bob     Marley "                    Don't worry be happy" 1984  345 215.14
-       Bob   Wazowski "                   Corporate is not evil" 1745  841  87.12
+    Ishmael       Beah "A Long Way Gone: Memoirs of a Boy Soldier" 2008  229  11.99
+       Ray   Bradbury "                          Fahrenheit 451" 1953  249   8.29
+  Maegaret      Brown "                          Goodnight Moon" 2005  360   9.99
+     Lewis    Carroll "        Alice's Adventures in Wonderland" 1865  272  20.99
+   Charles    Dickens "                      Great Expectations" 1861  384  10.99
+   Charles    Dickens "                         Christmas Carol" 1843   84   5.99
+      Dave     Eggers "A Heartbreaking Work of Staggering Genius" 2001  437  23.95
+   Gillian      Flynn "                               Gone Girl" 2014  422  11.79
+      Anne      Frank "               The Diary of a Young Girl" 1947  320  17.81
+   Stephen    Hawking "                 A Brief Hsitory of Time" 1998  212  27.00
+     Frank    Herbert "           Dune(Dune Chronicles, Book 1)" 1965  704  20.47
+     Adolf     Hitler "                              Mein Kampf" 1925  720  44.50
+     Wynne      Jones "                     Howls moving castle" 1986  212   9.99
+   Stephen       King "                                      It" 1986 1138  23.45
+   Stephen       King "                             The Shinihg" 1977  688  25.96
+      Jeff     Kinney "            Diary of a Wimpy Kid, Book 1" 2007  224  11.99
+ Madeleine    L'Engle "                       A Wringke in Time" 1962  224  14.81
+    George     Orwell "                                    1984" 1961  328  15.79
+    Joanne    Rowling "    Harry potter and Philosopher's Stone" 1998  352  15.99
+    Lemony    Snicket "         The Bad Beginning: Or, Orphans!" 1999  142   6.99
+   Haunter   Thompson "           Fear and Lathing in Las Vegas" 1998  204   8.29
+       Bob   Woodward "                 All the President's Men" 1994  349  29.27
