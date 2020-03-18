@@ -641,7 +641,7 @@ void mainMenu(struct sBooks** currentList)
 	
 	struct sBooks* pCurrentBookPointer = *currentList;
 	int iUserAnswer = 3;
-	printf("Book store management software, by Chaus Ivan");
+	printf("Book store management software, by Chaus Ivan ");
 
 	while (iUserAnswer != 0)
 	{
