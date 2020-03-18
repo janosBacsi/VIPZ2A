@@ -1,2 +1,6 @@
-﻿  laba10.cpp
+﻿  books.cpp
+E:\edu\semester1\moyiLaby\code\laba10\laba10\books.cpp(33,21): warning C4018:  '<': signed/unsigned mismatch
+E:\edu\semester1\moyiLaby\code\laba10\laba10\books.cpp(45,21): warning C4018:  '<': signed/unsigned mismatch
+E:\edu\semester1\moyiLaby\code\laba10\laba10\books.cpp(58,21): warning C4018:  '<': signed/unsigned mismatch
+E:\edu\semester1\moyiLaby\code\laba10\laba10\books.cpp(70,7): warning C4101:  'сBuffer': unreferenced local variable
   laba10.vcxproj -> E:\edu\semester1\moyiLaby\code\laba10\Debug\laba10.exe

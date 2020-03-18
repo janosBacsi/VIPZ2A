@@ -15,7 +15,6 @@
   Maegaret      Brown "                          Goodnight Moon" 2005  360   9.99
    Charles    Dickens "                      Great Expectations" 1861  384  10.99
       Anne      Frank "               The Diary of a Young Girl" 1947  320  17.81
-     Adolf     Hitler "                              Mein Kampf" 1925  720  44.50
    Charles    Dickens "                         Christmas Carol" 1843   84   5.99
      Wynne      Jones "                     Howls moving castle" 1986  212   9.99
    Stephen       King "                             The Shinihg" 1977  688  25.96
