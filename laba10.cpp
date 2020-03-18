@@ -9,7 +9,7 @@
 int main() {
 	struct sBooks* pCurrentBookPointer = NULL;
 	char cInputFileAddress[] = "input.txt";
-	if (readFromFile(cInputFileAddress, &pCurrentBookPointer) == 0) {
+	if (nReadFromFile(cInputFileAddress, &pCurrentBookPointer) == 0) {
 		return 0;
 	}
 
@@ -35,47 +35,47 @@ int main() {
 			"\n\t(10)Edit existing entry"
 			"\n\t(0)Exit\nYour answer:");
 
-		iUserAnswer = readFoolProofInt();
+		iUserAnswer = iReadFoolProofInt();
 		MoveWindow(console, r.left, r.top, 1000, 600, TRUE);
 		switch (iUserAnswer) {
 		case 1: {
-			addNewNode(&pCurrentBookPointer);
+			vAddNewNode(&pCurrentBookPointer);
 			break;
 		}
 		case 2: {
-			sortList(pCurrentBookPointer);
+			vSortList(pCurrentBookPointer);
 			printf("\nList successfully sorted by author's last name\n\n");
 			break;
 		}
 		case 3: {
-			printList(pCurrentBookPointer);
+			vPrintList(pCurrentBookPointer);
 			break;
 		}
 		case 4: {
-			lessThanCertainPrice(&pCurrentBookPointer);
+			vLessThanCertainPrice(&pCurrentBookPointer);
 			break;
 		}
 		case 5: {
-			writeToFile(pCurrentBookPointer);
+			vWriteToFile(pCurrentBookPointer);
 			break;
 		}
 		case 6: {
-			deleteSingleElement(&pCurrentBookPointer);
+			vDeleteSingleElement(&pCurrentBookPointer);
 			break;
 		}
 		case 7: {
-			saveChanges(pCurrentBookPointer);
+			vSaveChanges(pCurrentBookPointer);
 			break;
 		}
 		case 8: {
-			searchByAuthorsLastName(&pCurrentBookPointer);
+			vSearchByAuthorsLastName(&pCurrentBookPointer);
 			break;
 		}
 		case 9:
-			booksWithTheMostPages(pCurrentBookPointer);
+			vBooksWithTheMostPages(pCurrentBookPointer);
 			break;
 		case 10: {
-			editElementByIndex(pCurrentBookPointer);
+			vEditElementByIndex(pCurrentBookPointer);
 			break;
 		}
 		case 0: {
